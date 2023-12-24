@@ -1,0 +1,13 @@
+prefix=E:/ML Project/Book recomendation system/env/Library
+exec_prefix=E:/ML Project/Book recomendation system/env/Library
+libdir=E:/ML Project/Book recomendation system/env/Library/lib
+sharedlibdir=E:/ML Project/Book recomendation system/env/Library/lib
+includedir=E:/ML Project/Book recomendation system/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

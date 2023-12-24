@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A Book Recommender System using machine learning KNN Algorithm
+Home-page: https://github.com/Theshika/book_recomendation_system
+Author: Theshika
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+
+Book Recomendation system
